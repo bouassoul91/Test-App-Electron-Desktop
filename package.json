@@ -40,8 +40,14 @@
     "ag-grid-community": "^35.0.0",
     "ag-grid-react": "^35.0.0",
     "better-sqlite3": "^12.6.0",
-    "exceljs": "^4.4.0",
+    "exceljs": "^3.4.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3"
+  },
+  "allowScripts": {
+    "better-sqlite3@12.6.0": true,
+    "electron@39.8.10": true,
+    "electron-winstaller@5.4.0": true,
+    "esbuild@0.27.2": true
   }
 }
